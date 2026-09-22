@@ -69,7 +69,7 @@ Backend projects include local setup instructions and document their operational
 | Cloud and delivery | AWS, Docker, Kubernetes, GitHub Actions |
 | Testing and contracts | Vitest, Playwright, OpenAPI / Swagger |
 
-My [portfolio website](https://github.com/AdemolaAdedoyin/portfolio) is also in progress. Earlier transaction-service experiments live in [RiseBeta](https://github.com/AdemolaAdedoyin/riseBeta); the current financial-systems work is in [Fintech](https://github.com/AdemolaAdedoyin/fintech).
+My [portfolio website](https://github.com/AdemolaAdedoyin/portfolio) is also in progress. My current financial-systems work is maintained in [Fintech](https://github.com/AdemolaAdedoyin/fintech).
 
 ---
 
