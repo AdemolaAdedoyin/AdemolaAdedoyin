@@ -4,7 +4,7 @@
 
 I build APIs and applications with a focus on data integrity, asynchronous processing, and recovery when things fail. My projects explore the details behind reliable systems: tenant isolation, balanced ledgers, idempotent requests, durable queues, and observable delivery workflows.
 
-[LinkedIn](https://www.linkedin.com/in/sina-ademola-38635a162/) · [Explore my repositories](https://github.com/AdemolaAdedoyin?tab=repositories)
+[Portfolio](https://portfolio-umber-phi-11.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sina-ademola-38635a162/) · [Explore my repositories](https://github.com/AdemolaAdedoyin?tab=repositories)
 
 ## Selected engineering projects
 
@@ -50,7 +50,7 @@ Logical model routing, retryable-failure fallback, response caching, per-key rat
 | [SupportDesk](https://github.com/AdemolaAdedoyin/CS-Messaging-Web-App) | Vue 3 support inbox, customer portal, priority/status workflows, and a Firebase-backed realtime mode alongside a zero-setup demo. | [Open SupportDesk](https://cs-messaging-web-app-tan.vercel.app/) |
 | [20 Questions](https://github.com/AdemolaAdedoyin/20questions) | Local two-player guessing game with privacy handoffs, round history, persistence, and responsive UI. | [Play](https://20questions-ten.vercel.app/) |
 
-Backend projects include local setup instructions and document their operational limits. Public deployment and external-provider acceptance are separate milestones; repository readiness does not imply a live production service.
+**Run locally:** ExpenseFlow, Fintech, Webhook Relay, and Taskflow. Their repositories include setup instructions and operational documentation. ExpenseFlow's backend is not publicly deployed, so its frontend-only hosting is not a working full-stack demo.
 
 ## How I approach engineering
 
@@ -69,7 +69,7 @@ Backend projects include local setup instructions and document their operational
 | Cloud and delivery | AWS, Docker, Kubernetes, GitHub Actions |
 | Testing and contracts | Vitest, Playwright, OpenAPI / Swagger |
 
-My [portfolio website](https://github.com/AdemolaAdedoyin/portfolio) is also in progress. My current financial-systems work is maintained in [Fintech](https://github.com/AdemolaAdedoyin/fintech).
+Visit my [portfolio website](https://portfolio-umber-phi-11.vercel.app/) for selected work and experience, or browse its [source](https://github.com/AdemolaAdedoyin/portfolio). My current financial-systems work is maintained in [Fintech](https://github.com/AdemolaAdedoyin/fintech).
 
 ---
 
